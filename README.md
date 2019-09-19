@@ -1,2 +1,3 @@
-understand C init
-llllllll
+ch01:第一章例子和练习
+ch02:第二章例子和练习
+ch02:第二章例子和练习
